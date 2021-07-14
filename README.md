@@ -11,3 +11,6 @@ fix the starting point of the chart(yaxis) xaml ver
 add ability to do some annotations
 add ability to do some algo 
 place/manage trades
+
+
+#Tags: C#, ALGO, TRADING, BINANCE.NET,BINANCE, API
