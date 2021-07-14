@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @KingYSL
-- 👀 I’m interested in ... C#, Algo trading, Charting, Trading strategies.
-- 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... Any of my Interests
-- 📫 How to reach me ... tba
+This program charts Binance candlestick data.
+there are two versions 
+you can change the symbol in the code
+can attach api for further commands in the code
+it automatically gets the maximum number of candles you can get based on the current time you run the program (Binance api limit is 1000)
 
-<!---
-KingYSL/KingYSL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+To do 
+
+fix the zoom on non xaml wpf
+fix the starting point of the chart(yaxis) xaml ver
+add ability to do some annotations
+add ability to do some algo 
+place/manage trades
